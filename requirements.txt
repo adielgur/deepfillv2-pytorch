@@ -4,3 +4,6 @@ numpy
 Pillow
 tensorboard
 pyyaml
+fastapi
+uvicorn[standard]
+python-multipart

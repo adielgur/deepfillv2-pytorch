@@ -1,0 +1,7 @@
+python3
+pytorch
+torchvision
+numpy
+Pillow
+tensorboard
+pyyaml
